@@ -60,7 +60,7 @@ An intelligent note analysis agent that reads your personal notes and thoughts, 
 
 2. **Run the agent**:
    ```bash
-   deno run --A note-summarizer.ts
+   deno run -A note-summarizer.ts
    ```
 
 3. **View the results**:
