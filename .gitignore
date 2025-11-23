@@ -2,3 +2,4 @@
 /.venv/
 /context/*
 .env
+/deno.lock

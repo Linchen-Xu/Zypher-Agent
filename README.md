@@ -22,7 +22,8 @@ An intelligent note analysis agent that reads your personal notes and thoughts, 
 
 3. **Install dependencies** (if needed):
    ```bash
-   deno cache note-summarizer.ts
+   deno add jsr:@corespeed/zypher
+   deno add npm:rxjs-for-await
    ```
 
 ## Configuration
